@@ -15,8 +15,7 @@ package-lock.json
 __debug_bin
 bin/rsrc.syso
 
-gui/assets/ab0x.go
-config/ab0x.go
+
 .eslintcache
 **/.DS_Store
 .DS_Store
